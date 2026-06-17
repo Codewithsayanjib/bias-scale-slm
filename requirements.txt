@@ -1,0 +1,15 @@
+# Pinned for reproducibility — see notebooks for the scoring environment.
+transformers==4.49.0
+datasets==3.6.0
+accelerate>=1.0.0
+huggingface_hub>=0.26,<1.0
+torch>=2.1
+bitsandbytes>=0.43.0    # optional 4-bit fallback (non-comparable; flagged in notebooks)
+
+# Analysis / figures
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scipy>=1.11
+adjustText>=1.0
