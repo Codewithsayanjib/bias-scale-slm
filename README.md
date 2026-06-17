@@ -209,7 +209,7 @@ If you use this code or data, please cite the accompanying paper (in [`paper/`](
   author    = {Sanbui, Deep and Bhol, Subhransu and Sur, Sayanjib and
                Singh, Pawan Kumar},
   year      = {2026},
-  note      = {Under review}
+  note      = {Submitted to IEEE SilCon 2026}
 }
 ```
 
